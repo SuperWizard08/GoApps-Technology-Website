@@ -66,7 +66,7 @@
       <img src="assets/img/header.jpg" alt="" data-aos="fade-in">
 
       <div class="container d-flex flex-column align-items-center text-center">
-        <h2 data-aos="fade-up" data-aos-delay="100">Asset Management Solution</h2>
+        <h2 data-aos="fade-up" data-aos-delay="100">Information Technology Solution</h2>
         <p data-aos="fade-up" data-aos-delay="200">BY GOAPPS TECHNOLOGY</p>
       </div>
 
